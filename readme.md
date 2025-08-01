@@ -1,4 +1,4 @@
-# pureJax_neural_net.ipynb
+# Neural network implementation in pure jax
 
 This notebook demonstrates how to build and train a simple neural network using [JAX](https://github.com/google/jax), a high-performance numerical computing library from Google.
 
